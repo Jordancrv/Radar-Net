@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.pyc
+cyberguardian.db
+models/*.joblib
+reports/*.json
+reports/*.csv
+reports/*.png
+# Datasets originales
+data/cicids2017/
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Variables sensibles
+.env
